@@ -32,9 +32,8 @@ This Python script processes quiz questions from a text file and inserts them in
 ## Usage
 Run the script from the command line to process and insert the questions into the database:
 ```bash
-python script_name.py
+python app.py
 ```
-Replace `script_name.py` with the actual name of your script.
 
 ## Example of Data Format
 Your text file should include questions formatted as follows:
